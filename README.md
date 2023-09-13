@@ -61,7 +61,7 @@ Returns the version number of the app
 
 ## Credits
 
-Written by Robert (Jamie) Munro at White October
+Written by Robert (Jamie) Munro at White October(https://github.com/sampart/cordova-plugin-app-version)
 
 Various others have contributed fixes and new features. See the CHANGELOG.md for details.
 
