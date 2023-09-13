@@ -61,6 +61,8 @@ Returns the version number of the app
 
 ## Credits
 
+Written by Robert (Jamie) Munro at White October
+
 Various others have contributed fixes and new features. See the CHANGELOG.md for details.
 
 Original code based on the following Stack Overflow posts:
